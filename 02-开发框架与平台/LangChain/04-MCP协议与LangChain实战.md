@@ -783,6 +783,6 @@ MCP 协议通过一套标准化的通信契约，改变了 LLM 与外部工具�
 DXZY.AI - 专注于 AI、RAG、Agent、MCP
 ![DXZY.AI Logo](./images/logo.png)
 
-- GitHub: https://github.com/dxzyai/agent-dev-guide
+- GitHub: https://github.com/shuh-ai/agent-dev-guide
 - 官网: https://dxzy.ai
   ![DXZY.AI 服务](./images/service-qrcode.png)

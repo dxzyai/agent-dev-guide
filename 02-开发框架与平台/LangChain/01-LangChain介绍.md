@@ -565,7 +565,7 @@ LangChain 也是许多知名开源项目的底层框架。例如字节跳动开�
 DXZY.AI - 专注于 AI、RAG、Agent、MCP
 ![DXZY.AI Logo](./images/logo.png)
 
-- GitHub: https://github.com/dxzyai/agent-dev-guide
+- GitHub: https://github.com/shuh-ai/agent-dev-guide
 - 官网: https://dxzy.ai
   ![DXZY.AI 服务](./images/service-qrcode.png)
 

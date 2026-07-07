@@ -21,7 +21,7 @@
 
 ## 社区入口
 
-- [SHUH.AI GitHub 社区主页](https://github.com/dxzyai/agent-dev-guide)
+- [SHUH.AI GitHub 社区主页](https://github.com/shuh-ai/agent-dev-guide)
 - [SHUH.AI 官网](https://SHUH.AI)
 - [SHUH.AI 课程体系](https://SHUH.AI/course)
 
@@ -223,4 +223,4 @@
 - 面向求职作品集的项目表达模板
 - 中文 AI 工程化资料索引
 
-如果你也在构建 AI 应用、复盘项目、学习 RAG / Agent / 模型部署，欢迎关注 [SHUH.AI GitHub 社区主页](https://github.com/dxzyai/agent-dev-guide)。
+如果你也在构建 AI 应用、复盘项目、学习 RAG / Agent / 模型部署，欢迎关注 [SHUH.AI GitHub 社区主页](https://github.com/shuh-ai/agent-dev-guide)。
